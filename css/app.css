@@ -1,0 +1,30 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.cell {
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  font-size: 1.5em;
+  background-color: #4a484d;
+}
+
+.victory-modal {
+  background-color: lightcoral;
+  border: 1px solid white;
+  color: black; 
+  width: 250px;
+  height: 120px;
+  margin: auto;
+  margin-top: 20px;
+  padding: 18px;
+} 
+
+table {
+  margin: auto;
+  border: 1px solid;
+}
+
